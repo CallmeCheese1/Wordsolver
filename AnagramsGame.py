@@ -27,3 +27,5 @@ class AnagramsGame:
     def play(self):
         print("Welcome to Anagrams!")
         # Game logic goes here
+
+print("Hello World!")
